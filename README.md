@@ -27,4 +27,4 @@ Através do cruzamento das bases de histórico de vendas e investimentos em mark
 * `investimento_marketing.csv`: Base de dados simulada com os custos de campanhas por categoria.
 
 ## 👨‍💻 Autor
-Seu Nome / Seu LinkedIn
+Cauã Caetano / (https://zdevcz.github.io/CyberDev-resume/)
